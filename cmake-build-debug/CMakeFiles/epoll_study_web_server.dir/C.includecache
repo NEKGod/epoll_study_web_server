@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/php-src/tmp/tmp.KzfSMRft9I/epoll/epoll.c
+malloc.h
+-
+sys/epoll.h
+-
+epoll.h
+/tmp/php-src/tmp/tmp.KzfSMRft9I/epoll/epoll.h
+
+/tmp/php-src/tmp/tmp.KzfSMRft9I/epoll/epoll.h
+
+/tmp/php-src/tmp/tmp.KzfSMRft9I/main.c
+stdio.h
+-
+epoll/epoll.h
+/tmp/php-src/tmp/tmp.KzfSMRft9I/epoll/epoll.h
+

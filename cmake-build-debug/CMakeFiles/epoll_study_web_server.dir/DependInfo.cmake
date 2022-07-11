@@ -1,15 +1,17 @@
-
-# Consider dependencies only in project.
-set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
-
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
+  "C"
   )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/tmp/php-src/tmp/tmp.KzfSMRft9I/epoll/epoll.c" "/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/CMakeFiles/epoll_study_web_server.dir/epoll/epoll.c.o"
+  "/tmp/php-src/tmp/tmp.KzfSMRft9I/main.c" "/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/CMakeFiles/epoll_study_web_server.dir/main.c.o"
+  "/tmp/php-src/tmp/tmp.KzfSMRft9I/socket/socket.c" "/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/CMakeFiles/epoll_study_web_server.dir/socket/socket.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
 
-# The set of dependency files which are needed:
-set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/tmp/epoll_study_web_server/epoll/epoll.c" "CMakeFiles/epoll_study_web_server.dir/epoll/epoll.c.o" "gcc" "CMakeFiles/epoll_study_web_server.dir/epoll/epoll.c.o.d"
-  "/tmp/epoll_study_web_server/main.c" "CMakeFiles/epoll_study_web_server.dir/main.c.o" "gcc" "CMakeFiles/epoll_study_web_server.dir/main.c.o.d"
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.

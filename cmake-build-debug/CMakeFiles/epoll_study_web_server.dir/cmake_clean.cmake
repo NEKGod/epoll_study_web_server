@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/epoll_study_web_server.dir/epoll/epoll.c.o"
-  "CMakeFiles/epoll_study_web_server.dir/epoll/epoll.c.o.d"
   "CMakeFiles/epoll_study_web_server.dir/main.c.o"
-  "CMakeFiles/epoll_study_web_server.dir/main.c.o.d"
+  "CMakeFiles/epoll_study_web_server.dir/socket/socket.c.o"
   "epoll_study_web_server"
   "epoll_study_web_server.pdb"
 )
