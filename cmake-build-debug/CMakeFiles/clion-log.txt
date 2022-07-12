@@ -1,4 +1,4 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /tmp/php-src/tmp/tmp.KzfSMRft9I
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.qu2zo52q73 -B /tmp/tmp.qu2zo52q73/cmake-build-debug
 -- Configuring done
 -- Generating done
--- Build files have been written to: /tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug
+-- Build files have been written to: /tmp/tmp.qu2zo52q73/cmake-build-debug

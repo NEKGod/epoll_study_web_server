@@ -1,11 +1,8 @@
 #include <stdio.h>
-#include "epoll/epoll.h"
+#include <sys/socket.h>
+#include "http/http.h"
 
-EpollServer epollServer = {
-    .create=e_create
-};
 int main() {
-    EpollInfo * epollInfo = epollServer.create();
-    printf("%d\r\n", epollInfo->epollFd);
+    httpServer.start();
     return 0;
 }

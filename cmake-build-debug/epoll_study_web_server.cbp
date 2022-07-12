@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.qu2zo52q73/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.qu2zo52q73/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="epoll_study_web_server">
-				<Option output="/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/epoll_study_web_server" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug"/>
+				<Option output="/tmp/tmp.qu2zo52q73/cmake-build-debug/epoll_study_web_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.qu2zo52q73/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -39,15 +39,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 epoll_study_web_server"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 epoll_study_web_server"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="epoll_study_web_server/fast">
-				<Option output="/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/epoll_study_web_server" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug"/>
+				<Option output="/tmp/tmp.qu2zo52q73/cmake-build-debug/epoll_study_web_server" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.qu2zo52q73/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -57,39 +57,48 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 epoll_study_web_server/fast"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 epoll_study_web_server/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.qu2zo52q73/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/tmp/php-src/tmp/tmp.KzfSMRft9I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.qu2zo52q73/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/tmp/php-src/tmp/tmp.KzfSMRft9I/epoll/epoll.c">
+		<Unit filename="/tmp/tmp.qu2zo52q73/epoll/epoll.c">
 			<Option target="epoll_study_web_server"/>
 		</Unit>
-		<Unit filename="/tmp/php-src/tmp/tmp.KzfSMRft9I/epoll/epoll.h">
+		<Unit filename="/tmp/tmp.qu2zo52q73/epoll/epoll.h">
 			<Option target="epoll_study_web_server"/>
 		</Unit>
-		<Unit filename="/tmp/php-src/tmp/tmp.KzfSMRft9I/main.c">
+		<Unit filename="/tmp/tmp.qu2zo52q73/http/http.c">
 			<Option target="epoll_study_web_server"/>
 		</Unit>
-		<Unit filename="/tmp/php-src/tmp/tmp.KzfSMRft9I/socket/socket.c">
+		<Unit filename="/tmp/tmp.qu2zo52q73/http/http.h">
 			<Option target="epoll_study_web_server"/>
 		</Unit>
-		<Unit filename="/tmp/php-src/tmp/tmp.KzfSMRft9I/socket/socket.h">
+		<Unit filename="/tmp/tmp.qu2zo52q73/main.c">
 			<Option target="epoll_study_web_server"/>
 		</Unit>
-		<Unit filename="/tmp/php-src/tmp/tmp.KzfSMRft9I/CMakeLists.txt">
+		<Unit filename="/tmp/tmp.qu2zo52q73/socket/socket.c">
+			<Option target="epoll_study_web_server"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.qu2zo52q73/socket/socket.h">
+			<Option target="epoll_study_web_server"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.qu2zo52q73/tool/tool.h">
+			<Option target="epoll_study_web_server"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.qu2zo52q73/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
